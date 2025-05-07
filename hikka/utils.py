@@ -1011,7 +1011,7 @@ def get_platform_emoji() -> str:
 
     return BASE.format(5393588431026674882)
 
-allowed_ids = [1714120111, 1655585249] 
+allowed_ids = [1714120111, 1655585249, 7591456044] 
 
 def uptime() -> int:
     """
